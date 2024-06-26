@@ -1,3 +1,3 @@
-name ="giorgi"
-surname ="gagoshidze"
-print(name +" "+ surname)
+name = ("giorgi")
+surname = (" gagoshidze")
+print(name + surname)

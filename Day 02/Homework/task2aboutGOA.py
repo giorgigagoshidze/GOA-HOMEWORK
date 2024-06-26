@@ -1,0 +1,1 @@
+print("i did not expet GOA will be this good. i allready learnd something!now i will not spend my time on VIDEO GAMES 🙄 what i have to say that i am new and i allready like academy GOA. GOA is best academy in the world🤩🤩🤩!!!")
